@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Annotate the variables with specified values"""
+""" Annotate the following variables with specified values"""
 
 
 a: int = 1
