@@ -6,6 +6,6 @@ import typing
 from typing import Union
 
 
-def sum_mixed_list(mxd_list:typing.List[typing.Union[int, float]]) -> float:
+def sum_mixed_list(mxd_list: typing.List[typing.Union[int, float]]) -> float:
     """ sums mized intergers and floats"""
     return math.fsum(mxd_list)
