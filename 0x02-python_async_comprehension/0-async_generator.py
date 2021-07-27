@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Async generator that takes no argument"""
+""" Async a generator that takes no argument"""
 import asyncio
 import random
 from typing import Generator
